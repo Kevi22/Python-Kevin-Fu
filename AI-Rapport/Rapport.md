@@ -75,3 +75,19 @@ Visualisering,
 
 driftsätta modellen,
 - AWS, Azure, Snowflake
+
+**Källor**
+
+https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
+
+https://www.w3schools.com/python/python_ml_linear_regression.asp
+
+https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week3.md
+
+https://saturncloud.io/blog/how-to-add-a-regression-line-in-python-using-matplotlib/
+
+https://pro.arcgis.com/en/pro-app/latest/tool-reference/geoai/how-linear-regression-works.htm
+
+https://aws.amazon.com/what-is/linear-regression/#:~:text=Linear%20regression%20is%20a%20data,variable%20as%20a%20linear%20equation.
+ 
+https://www.data.cam.ac.uk/data-management-guide/creating-your-data/choosing-formats

@@ -23,6 +23,7 @@ Data går att visualiseras på många olika sett men fokus kommer vara på Pytho
 Linjär regression är den mest grundläggande regression. Det är en data-analys teknik som kan uppskatta värdet av okända data med hjälp av kända och relaterade data. En linje dras för att bäst anpassa de relaterade data, linjen kan användas för att uppskatta till exempel huspriser i framtiden.
 
 **Hur fungerar linjär regression i Python ?**
+
 Data som är känd och relaterade läggs i en listor för att rita en spridningsdiagram(se bild 1 för resultat)
 
 Steg:

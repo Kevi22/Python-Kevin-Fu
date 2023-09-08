@@ -53,7 +53,8 @@ plt.show()
 </p>
 
 
-**Driftsätta modellen**
+**Driftsätta modellen** 
+
 När man en tränad modell vill man driftsätta modell för användning, det kommer att behöva kopplas in i något bredare produktionssystem som molnet.
 Dem två främsta metoder man använder för träna om modeller med färskdata är batch inference och online inference. Batch kör i periodvis, medans online kör i real-time, det ger batch fördel med köra mer komplexa modeller.
 

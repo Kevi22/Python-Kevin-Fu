@@ -14,7 +14,7 @@ Detta görs för att få så bra resultat som möjligt men också för att maski
 
 När man arbetar med data kan det bli svårt att förstå data i en tabell eller CSV fil. För att få en bättre blick av data och kunna välja rätt modell för en specifik data, är det enklare att visualisera eller ha data i en illustrerad form, som grafer, bilder och diagram. Det gör också att man kan få ut mer av data och se mönster, trender som man kanske inte såg i en vanlig CSV fil. Människan har även enklare att bearbeta och förstå data på det sättet.
 
-**metoder att visualisera data**
+**Metoder att visualisera data**
 
 Data går att visualiseras på många olika sett men fokus kommer vara på Python. Python har flera olika bibliotek som Matplotlib, Seaborn, ploty och m.m. Alla har olika för- och nackdelar, Seaborn är mer för att analysera statistik medans Matplotlib är för enklare grafer och diagram och används oftast för data listor, går även att para ihop med NumPy och pandas, vilket gör det till ett bättre alternative för förutspå huspriser.
 
@@ -73,7 +73,7 @@ Maskininlärning
 Visualisering,
 - Matplotlib, plotly
 
-driftsätta modellen,
+Driftsätta modellen,
 - AWS, Azure, Snowflake
 
 **Källor**

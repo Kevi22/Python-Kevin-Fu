@@ -1,4 +1,6 @@
 # Python-Kevin-Fu
-Python Course For AI23 ITHS
-- Coruse
-- test
+## Welcome to my python repository
+
+In this repository, you'll discover my AI/ML work.
+
+update shortly.

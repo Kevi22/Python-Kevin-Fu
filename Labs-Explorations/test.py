@@ -21,7 +21,8 @@ class Shapes:
 
     def distance_to_point(self, point_x, point_y):
         return math.sqrt((self.x - point_x) ** 2 + (self.y - point_y) ** 2)
-    
+
+
 class Circle(Shapes):
    
     def __init__(self, x, y, radius):
@@ -46,13 +47,12 @@ class Circle(Shapes):
             return self.radius == other.radius
         
         return False
-
     def __str__(self):
         return f"Circle with center at ({self.x}, {self.y}) and radius {self.radius}"
 
     def __repr__(self):
         return f"{self.__class__.__name__}(x={self.x}, y={self.y}, radius={self.radius})"
-    
+
 class Rectangle(Shapes):
    
     def __init__(self, x, y, side1, side2):
@@ -76,11 +76,13 @@ class Rectangle(Shapes):
    
     def __eq__(self, other):
         return isinstance(other, Rectangle) and self.x == other.x and self.y == other.y and self.side1 == other.side1 and self.side2 == other.side2
+   
     def __str__(self):
         return f"Rectangle with center at ({self.x}, {self.y}), sides {self.side1} and {self.side2}"
 
     def __repr__(self):
         return f"{self.__class__.__name__}(x={self.x}, y={self.y}, side1={self.side1}, side2={self.side2})"
+
 
 def main():
     cirkel1 = Circle(x=0, y=0, radius=1)
@@ -99,4 +101,6 @@ def main():
     print(repr(rektangel))
 
 if __name__ == "__main__":
+   
     main()
+

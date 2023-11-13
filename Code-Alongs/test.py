@@ -1,4 +1,4 @@
-#f strings
+
 name = "kevin" # input("Enter your name: ")
 myString = f"hello {name}!"
 print(myString)
